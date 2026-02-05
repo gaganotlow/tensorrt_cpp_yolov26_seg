@@ -1,0 +1,5 @@
+/app/tensorrt_cpp_yolov26_seg_demo/build/CMakeFiles/rebuild_cache.dir
+/app/tensorrt_cpp_yolov26_seg_demo/build/CMakeFiles/edit_cache.dir
+/app/tensorrt_cpp_yolov26_seg_demo/build/CMakeFiles/runtime.dir
+/app/tensorrt_cpp_yolov26_seg_demo/build/CMakeFiles/build.dir
+/app/tensorrt_cpp_yolov26_seg_demo/build/CMakeFiles/yolo_utils.dir
